@@ -1,4 +1,5 @@
-enum cargos
+namespace EspacioCargos;
+public enum cargos
 {
     Auxiliar,
     Administrativo,
